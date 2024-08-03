@@ -22,6 +22,5 @@ Technologies Used
 Limitations
 
 Please note that due to certain restrictions, not all project files can be shared publicly. The provided files on GitHub represent a portion of the project, focusing on the core functionalities and components. For detailed implementation, integration specifics, and proprietary code, please contact me directly.
-Contact
 
 For any inquiries or further information, feel free to reach out to me at avmofficial.001@gmail.com .
