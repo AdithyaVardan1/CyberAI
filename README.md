@@ -1,4 +1,4 @@
-##Cybersecurity AI Assistant
+Cybersecurity AI Assistant
 Overview
 
 The Cybersecurity AI Assistant is an advanced AI tool designed to answer cyber tech-related queries, offer real-time crypto news, and facilitate a seamless crypto buying experience. Developed using cutting-edge technologies, including Groq, LlamaIndex, and Deepgram, the assistant integrates multiple data sources and APIs to provide accurate and up-to-date information.
